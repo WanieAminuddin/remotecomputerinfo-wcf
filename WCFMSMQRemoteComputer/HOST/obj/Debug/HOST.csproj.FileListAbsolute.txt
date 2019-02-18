@@ -1,0 +1,37 @@
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.exe.config
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.csprojResolveAssemblyReference.cache
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.Form1.resources
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.Properties.Resources.resources
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.csproj.GenerateResource.Cache
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.exe
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.pdb
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\bin\Debug\Server.dll
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\bin\Debug\Server.pdb
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.exe
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.pdb
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.exe.config
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.exe
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.pdb
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.csprojResolveAssemblyReference.cache
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.Form1.resources
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.Properties.Resources.resources
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.csproj.GenerateResource.Cache
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.exe
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.pdb
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\bin\Debug\Server.dll
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\bin\Debug\Server.pdb
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.exe.config
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.exe
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.pdb
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.exe.config
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.exe
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\bin\Debug\HOST.pdb
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\bin\Debug\Server.dll
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\bin\Debug\Server.pdb
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.csprojResolveAssemblyReference.cache
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.Form1.resources
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.Properties.Resources.resources
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.csproj.GenerateResource.Cache
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.csproj.CoreCompileInputs.cache
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.exe
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\HOST\obj\Debug\HOST.pdb

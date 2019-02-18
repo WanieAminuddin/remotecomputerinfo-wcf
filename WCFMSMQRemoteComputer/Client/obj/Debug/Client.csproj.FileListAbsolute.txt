@@ -1,0 +1,36 @@
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Client\bin\Debug\Client.exe.config
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Client\bin\Debug\Client.exe
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Client\bin\Debug\Client.pdb
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Client\obj\Debug\Client.Form1.resources
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Client\obj\Debug\Client.exe
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Client\obj\Debug\Client.pdb
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\bin\Debug\Client.exe.config
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.exe
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.pdb
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\bin\Debug\Client.exe
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\bin\Debug\Client.pdb
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.Form1.resources
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\bin\Debug\Client.exe.config
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.exe
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.pdb
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\bin\Debug\Client.exe
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\bin\Debug\Client.pdb
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.Form1.resources
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Shazwani\Desktop\TA\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\bin\Debug\Client.exe.config
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\bin\Debug\Client.exe
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\bin\Debug\Client.pdb
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\obj\Debug\Client.Form1.resources
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\obj\Debug\Client.exe
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Client\obj\Debug\Client.pdb

@@ -1,0 +1,15 @@
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Server\bin\Debug\Server.dll
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Server\bin\Debug\Server.pdb
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Server\obj\Debug\Server.dll
+C:\Users\Shazwani\Desktop\WCFMSMQRemoteComputer\Server\obj\Debug\Server.pdb
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Server\obj\Debug\Server.dll
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Server\obj\Debug\Server.pdb
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Server\bin\Debug\Server.dll
+C:\Users\Shazwani\Desktop\MSMQ Projects\DONE\WCFMSMQRemoteComputer\Server\bin\Debug\Server.pdb
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Server\bin\Debug\Server.dll
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Server\bin\Debug\Server.pdb
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Server\obj\Debug\Server.dll
+C:\Users\userr\Desktop\Repo Api\WCFMSMQRemoteComputer\Server\obj\Debug\Server.pdb
